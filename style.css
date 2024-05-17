@@ -1,0 +1,16 @@
+.people{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.card{
+    padding: 1rem;
+    background-color: lightblue;
+    border-radius: 8px;
+    max-width: 20rem;
+    min-width: 10rem;
+    
+
+}
